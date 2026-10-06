@@ -1,11 +1,16 @@
 # jotangclub
 
-jotangclub-recruit-2026-git —— 焦糖工作室 2026 招新 · Git 学习记录
+jotangclub-recruit-2026-git —— 焦糖工作室 2026 招新 · Git 与 AI Agent 学习记录
 
 ## 仓库说明
 
-本仓库用于记录我在招新期间学习 Git 的过程与练习，内容按日期分区。
-除最终的 Git 练习成果外，还保留了练习分支冲突时使用的 `env.md`。
+本仓库用于记录我在招新期间学习 Git 的过程与练习，以及使用 AI Agent 的记录。  
+
+除最终的 Git 练习成果外，还保留了练习分支冲突时使用的 `env.md`。  
+
+AI_AGENT.md 记录了本次用 AI Agent 整理本文件的过程与 diff。  
+
+本文件内容按日期分区。
 
 ## 9月5日：远程仓库、克隆与分支
 
